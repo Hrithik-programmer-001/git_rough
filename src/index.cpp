@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout << "index.cpp \n"
-         << "version3";
+         << "version1";
     
     return 0;
 }
