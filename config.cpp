@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout << "config.cpp \n"
-         << "version1";
+         << "version2";
     
     return 0;
 }
